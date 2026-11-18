@@ -19,10 +19,10 @@ This profile is brand new, and this is where my projects will land.
 
 ## ⚡ Current Orbit
 
-- 🔭 Working on: *(add your current project)*
-- 🌱 Learning: *(add what you're learning)*
-- 👯 Looking to collaborate on: *(add topics)*
-- 💬 Ask me about: *(add your specialties)*
+- 🔭 Working on: 
+- 🌱 Learning: 
+- 👯 Looking to collaborate on: 
+- 💬 Ask me about:
 
 ## 🧰 Tech Arsenal
 
